@@ -1,0 +1,31 @@
+h1 {
+	color: #F781D8;
+	background-color: black;
+}
+
+body {
+	background-color: #58D3F7;
+	font-family: Verdana;
+	text-align: center;
+}
+
+body ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+body a {
+	text-decoration: none;
+	color: #F781D8;
+	border-radius: 5px;
+	background-color: black;
+	display: block;
+	height: 20px;
+	width: 150px;
+	margin: auto;
+}
+
+body a:hover {
+	color: white;
+}
